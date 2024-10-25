@@ -1,4 +1,6 @@
-
+body{
+    background-image: url(../img/body.jpg);
+}
 form {
     margin-left:500px ;
     margin-top: 150px;
