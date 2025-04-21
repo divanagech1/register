@@ -1,2 +1,1 @@
-# register
-synergy online registeration system by php and mysql
+ online registeration system by php and mysql
